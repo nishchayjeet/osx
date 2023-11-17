@@ -1,6 +1,6 @@
 # OSX Cybersecurity Solution
 
-<img src="Concept/osx_logo.png"  width="60%" height="30%">
+<img src="Concept/osx_logo.png"  alt="logo" width="50%" height="30%">
 
 ## Introduction
 
