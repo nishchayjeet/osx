@@ -1,10 +1,12 @@
 # OSX Cybersecurity Solution
 
-<img src="Concept/osx_logo.png"  alt="logo" width="50%" height="30%">
+<img src="Concept/Dash_2"  alt="Dashboard" width="50%" height="30%">
 
 ## Introduction
 
 OSX is a cutting-edge cybersecurity solution, integrating Raspberry Pi technology to offer a comprehensive suite of cybersecurity services. Designed for small to mid-size businesses and Managed Service Providers (MSPs), OSX provides a user-friendly, scalable, and cost-effective approach to securing digital assets.
+
+<img src="Concept/osx_logo.png"  alt="logo" width="30%" height="30%">
 
 ## Features
 
