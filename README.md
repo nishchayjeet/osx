@@ -21,7 +21,8 @@ OSX is a cutting-edge cybersecurity solution, integrating Raspberry Pi technolog
 - **User-Friendly Interface:** Intuitive dashboard for easy deployment and management.
 - **Scalable Solutions:** Tailored to grow alongside your business.
 
-![Dashboard Screenshot](URL_to_dashboard_screenshot)
+
+<img src="Concept/Dash_1.png"  alt="Dashboard" width="60%" height="30%">
 
 ## Getting Started
 
