@@ -1,4 +1,4 @@
-# OSX Cybersecurity Solution
+# OSX Cybersecurity ALL-IN-ONE Integrations
 
 <img src="Concept/Dash_2.png"  alt="Dashboard" width="70%" height="30%">
 
