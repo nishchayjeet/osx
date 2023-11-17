@@ -1,6 +1,6 @@
 # OSX Cybersecurity Solution
 
-![OSX Logo](URL_to_logo_image)
+![OSX Logo](Concept/osx_logo.png)
 
 ## Introduction
 
