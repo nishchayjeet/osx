@@ -1,6 +1,6 @@
 # OSX Cybersecurity Solution
 
-<img src="Concept/Dash_2"  alt="Dashboard" width="50%" height="30%">
+<img src="Concept/Dash_2.png"  alt="Dashboard" width="50%" height="30%">
 
 ## Introduction
 
